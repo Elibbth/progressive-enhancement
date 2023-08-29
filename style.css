@@ -215,3 +215,13 @@ blockquote {
 .video {
     text-decoration: none;
 }
+a {
+    font-weight: 200;
+    text-decoration: none;
+    color: rgb(89, 52, 124);
+}
+a:hover {
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(219, 180, 255)
+}
